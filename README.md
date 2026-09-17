@@ -233,4 +233,4 @@ Flintlock: The Siege of Dawn is offered as the complete free version with all fe
 Ready to embark on an epic adventure? Download Flintlock: The Siege of Dawn now and unleash your inner hero!
 
 ---
-**Last updated:** 2026-09-17 05:40:16 UTC
+**Last updated:** 2026-09-17 10:50:00 UTC
